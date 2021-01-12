@@ -30,3 +30,7 @@ https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 #   References
 
 https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
+
+#   Status
+
+WIP
