@@ -8,7 +8,7 @@ Per product:
 
 -   Extracting key topics (recurring themes)
 
-For the top 5 products based on the average customer rating:
+For the top and bottom 5 products based on the average customer rating:
 
 Interpreting the results:
 
